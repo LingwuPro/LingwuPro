@@ -5,3 +5,6 @@
 更重要的: 母胎单身,纯爱战士.   
    
 最后,陌生人,请你不论你遇到什么事,都要想办法活着,就当为了我.   
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LingwuPro&show_icons=true&locale=en" alt="yousiki" />
+</p>
